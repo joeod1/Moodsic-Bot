@@ -1,5 +1,6 @@
 # Moodsic-Bot
-Uses sentiment analysis (currently with Facebook's bart-large-mnli) to find tracks from a Spotify playlist that fit the mood
+Uses sentiment analysis (currently with Facebook's bart-large-mnli) to find tracks from a Spotify playlist that fit the mood.
+This is my first Python project.
 
 <img width="329" alt="image" src="https://github.com/joeod1/Moodsic-Bot/assets/134208394/4e11ffcd-a0e2-429e-9ca9-242b46380c57">
 
